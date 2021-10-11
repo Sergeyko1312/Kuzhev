@@ -1,0 +1,38 @@
+.div1 {border: 2px solid rgb(0, 0, 0);
+    width:50%;
+    height: 500px;
+    position: absolute;
+    p { text-position: relative;}
+}
+.div2 {border: 2px solid rgb(0, 0, 0);
+    width:50%;
+    height: 500px;
+    position: absolute;
+    margin-left: 50%;
+}
+.div3 {border: 2px solid rgb(0, 0, 0);
+    width: 50%;
+    height: 500px;
+    position: absolute;
+    margin-top: 500px;
+}
+.div4 {border: 2px solid rgb(0, 0, 0);
+    width:50%;
+    height: 500px;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 500px;
+}
+.div5 {border: 2px solid rgb(0, 0, 0);
+    width: 50%;
+    height: 500px;
+    position: absolute;
+    margin-top: 1000px;
+}
+.div6 {border: 2px solid rgb(0, 0, 0);
+    width:50%;
+    height: 500px;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 1000px;
+}

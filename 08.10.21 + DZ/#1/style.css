@@ -1,0 +1,32 @@
+.div1 {border: 2px solid yellow;
+    height: 340px;
+    width: 260px;
+    position: absolute;
+}
+.div2 {border: 2px solid blue;
+    margin-top: 348px;
+    height: 248px;
+    width: 260px;
+    position: absolute;
+}
+.div3 {border: 2px solid red;
+    float: right;
+    margin-left: 268px;
+    height: 100px;
+    width: 260px;
+    position: absolute;
+}
+.div4 {border: 2px solid pink;
+    margin-left: 268px;
+    margin-top: 108px;
+    height: 300px;
+    width: 260px;
+    position: absolute; 
+}
+.div5 {border: 2px solid black;
+    margin-top: 416px;
+    margin-left: 268px;
+    height: 180px;
+    width: 260px;
+    position: absolute;
+}
